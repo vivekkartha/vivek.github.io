@@ -1,1 +1,1 @@
-# Hello, I make Android apps.
+# I love making new products
